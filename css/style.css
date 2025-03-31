@@ -1,0 +1,25 @@
+h3 {
+    font-family: 'Protest Guerrilla', sans-serif;
+    text-align: center;
+    font-size:50px;
+}
+
+.card {
+    width: 100%;
+}
+
+#nome_do_projeto{
+    font-family: 'Protest Guerrilla', sans-serif;
+}
+
+iframe{
+    border-color: black;
+}
+.question { margin-bottom: 15px; }
+.feedback { font-weight: bold; }
+
+#loading { 
+    display: none;
+    font-size: 20px;
+    color: blue;
+ }
