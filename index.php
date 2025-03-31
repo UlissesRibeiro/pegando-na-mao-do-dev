@@ -33,19 +33,6 @@ include 'includes/bootstrap.php';
             </div>
         </div>
 
-        <div class="col-md-4">
-            <div class="card text-center">
-                <div class="card-header">
-                    <i class="bi bi-cloud"></i> Laboratório - Docker
-                </div>
-                <div class="card-body">
-                    <h5 class="card-title">Aprendendo Docker</h5>
-                    <p class="card-text">Suba containers, experimente serviços e aprenda sobre orquestração de forma prática.</p>
-                    <a href="create_lab_docker.php" class="btn btn-primary">Criar Lab - Docker</a>
-                </div>
-            </div>
-        </div>
-
     </div>
 </section>
 
