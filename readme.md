@@ -29,7 +29,7 @@
 
 <p>No momento, se faz necessário que suba um server php localmente com :
 
-    php -s localhost:porta
+    php -S localhost:porta
 
 pode ser uma porta de sua preferência mas que não esteja em uso. Acesse o localhost na porta que escolheu no seu browser, e poderá usar os laboratórios que estiverem disponiveis.
 
