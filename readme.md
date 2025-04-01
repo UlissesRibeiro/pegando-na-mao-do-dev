@@ -12,7 +12,7 @@
 <p>O projeto, já vinha de tempos atrás quando comecei a estudar para area de pentest, que seria para quem estudase ter um ambiente de laboratio local, utilizando de pouco recurso, sem a necessidade de fazer uma VM local ou subir uma instância numa cloud.
 </p>
 
-<p>Inspirado então pelo projeto <b>GIRUS</b> da <b>LinuxTips</b>, resolvi então tocar meu projeto, tirar do papel e trazer a vida!</p>
+<p>Inspirado então pelo projeto <a href=https://linuxtips.io/girus-labs/)>GIRUS</a> da <b>LinuxTips</b>, resolvi então tocar meu projeto, tirar do papel e trazer a vida!</p>
 
 
 ### Requisitos
