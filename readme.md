@@ -31,6 +31,8 @@
 
     php -S localhost:porta
 
+Ou jogar dentro do famoso <b>/var/www/seu-site/</b>
+
 pode ser uma porta de sua preferência mas que não esteja em uso. Acesse o localhost na porta que escolheu no seu browser, e poderá usar os laboratórios que estiverem disponiveis.
 
 </p>
